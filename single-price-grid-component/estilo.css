@@ -1,10 +1,11 @@
 body {
+	font-family: Karla-Light.ttf;
 	font-size: 16px;
 	background-color: #e5eff5;
 	display: flex;
     justify-content: center;
     align-items: center;
-    min-height: 80vh;
+    min-height: 97vh;
 
 }
 
@@ -51,6 +52,12 @@ header  {
 
 .cinza {
 	color: hsl(204, 43%, 80%);
+}
+
+p {
+	line-height: 22px;
+	margin: 0
+	padding 5px;
 }
 
 button {
